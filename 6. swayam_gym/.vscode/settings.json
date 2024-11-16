@@ -1,0 +1,14 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "swayam_gym_db",
+      "database": "swayam_gym",
+      "password": "Swayam@1234",
+      "username": "postgres"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "database": "company_relation",
+      "name": "company_relation_db",
+      "username": "postgres"
+    }
+  ]
+}

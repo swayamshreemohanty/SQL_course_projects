@@ -1,0 +1,13 @@
+-- INSERT INTO conversations (user_id, employer_id, "message", date_sent) 
+-- VALUES
+-- (1, 3, 'Hello, I am interested in the job.', '2020-01-01 09:00:00.00'),
+-- (2, 2, 'Hello, I am interested in the job.', '2020-01-01 09:00:00.00'),
+-- (2, 1, 'Hi Swayam, we are interested in you too.', '2020-01-01 09:05:00.00'),
+-- (2, 1, 'When can we schedule an interview?', '2020-01-01 09:10:00.00'),
+-- (2, 1, 'Whenever you are free.', '2020-01-01 09:15:00.00'),
+-- (2, 1, 'Great, I am free tomorrow.', '2020-01-01 09:20:00.00'),
+-- (2, 1, 'Okay, I will schedule an interview for tomorrow.', '2020-01-01 09:25:00.00'),
+-- (2, 1, 'Thank you.', '2020-01-01 09:30:00.00');
+
+-- INSERT INTO conversations (user_id, employer_id, "message")
+-- VALUES (4, 10, 'You are welcome.');
